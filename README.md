@@ -21,3 +21,12 @@
 3. **assertThat vs assertTrue**
 : 스프링의 정석에서 쓰는 assertTrue 보단, **assertThat**이 더 낫다.
  https://jongmin92.github.io/2020/03/31/Java/use-assertthat/
+ 
+ 
+ 4. **p100 application.properties 설정 변경**
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL57Dialect
+spring.jpa.properties.hibernate.dialect.storage_engine=innodb
+spring.datasource.hikari.jdbc-url=jdbc:h2:mem://localhost/~/testdb;MODE=MYSQL
+spring.h2.console.enabled=true
+
