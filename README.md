@@ -18,3 +18,6 @@
 
 
 
+3. **assertThat vs assertTrue**
+: 스프링의 정석에서 쓰는 assertTrue 보단, **assertThat**이 더 낫다.
+: https://jongmin92.github.io/2020/03/31/Java/use-assertthat/
