@@ -45,7 +45,8 @@ https://github.com/jojoldu/freelec-springboot2-webservice/issues/612
 6. **p.112 PostsResponseDTO**   
 : id, title, content, author 모두 **final**로 변경   
 
-   
+   <br>   
+      
 7. 
 
 
