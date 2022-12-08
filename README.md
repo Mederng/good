@@ -9,21 +9,26 @@
 1. **[build.gradle]**
 : **JDK 버전** 11 
 : **Boot 버전** 2.7.6
-: repositories만 **jcenter()** 추가했음
+: repositories만 **jcenter()** 추가했음   
 
 
 2. **[.ignore]**
 : **.ignore 파일**은 인텔리제이 기본 제공인듯?
-: idea와 gradle은 기본 이그노어 인듯
+: idea와 gradle은 기본 이그노어 인듯   
 
 
 
 3. **assertThat vs assertTrue**
 : 스프링의 정석에서 쓰는 assertTrue 보단, **assertThat**이 더 낫다.
- https://jongmin92.github.io/2020/03/31/Java/use-assertthat/
+ https://jongmin92.github.io/2020/03/31/Java/use-assertthat/   
  
  
  4. **p100 application.properties 설정 변경**   
+spring.jpa.show-sql=true   
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL57Dialect   
+spring.jpa.properties.hibernate.dialect.storage_engine=innodb   
+spring.datasource.hikari.jdbc-url=jdbc:h2:mem://localhost/~/testdb;MODE=MYSQL   
+spring.h2.console.enabled=true   
 https://github.com/jojoldu/freelec-springboot2-webservice/issues/612
 
 
