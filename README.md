@@ -35,3 +35,10 @@ spring.h2.console.enabled=true
 https://github.com/jojoldu/freelec-springboot2-webservice/issues/612
 
 
+5. **p.110 PostsApiControllerTests**   
+: assertThat(responseEntity.getBody()).**isGreaterThan(0L)**;   
+->   
+: assertThat(responseEntity.getBody()).**isPositive()**;
+
+
+
