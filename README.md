@@ -23,7 +23,7 @@
  https://jongmin92.github.io/2020/03/31/Java/use-assertthat/
  
  
- 4. **p100 application.properties 설정 변경**
+ 4. **p100 application.properties 설정 변경**   
 https://github.com/jojoldu/freelec-springboot2-webservice/issues/612
 
 
