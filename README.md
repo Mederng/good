@@ -34,7 +34,8 @@ spring.datasource.hikari.jdbc-url=jdbc:h2:mem://localhost/~/testdb;MODE=MYSQL
 spring.h2.console.enabled=true   
 https://github.com/jojoldu/freelec-springboot2-webservice/issues/612
 
-<br>
+<br>   
+
 5. **p.110 PostsApiControllerTests**   
 : assertThat(responseEntity.getBody()).**isGreaterThan(0L)**;   
 -> 둘의 차이는 뭘까? 아래가 인텔리제이 SonarLint에서 추천해주는 코드이긴한데..   
