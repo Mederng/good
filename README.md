@@ -24,11 +24,16 @@
  
  
  4. **p100 application.properties 설정 변경**
-
 spring.jpa.show-sql=true
+
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL57Dialect
+
 spring.jpa.properties.hibernate.dialect.storage_engine=innodb
+
 spring.datasource.hikari.jdbc-url=jdbc:h2:mem://localhost/~/testdb;MODE=MYSQL
+
 spring.h2.console.enabled=true
+
 https://github.com/jojoldu/freelec-springboot2-webservice/issues/612
+
 
