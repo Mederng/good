@@ -13,15 +13,15 @@
 
 
 
-2. **[.ignore]**
-: **.ignore 파일**은 인텔리제이 기본 제공인듯?
+2. **[.ignore]**   
+: **.ignore 파일**은 인텔리제이 기본 제공인듯?   
 : idea와 gradle은 기본 이그노어 인듯   
 
 
 
 
-3. **assertThat vs assertTrue**
-: 스프링의 정석에서 쓰는 assertTrue 보단, **assertThat**이 더 낫다.
+3. **assertThat vs assertTrue**   
+: 스프링의 정석에서 쓰는 assertTrue 보단, **assertThat**이 더 낫다.   
  https://jongmin92.github.io/2020/03/31/Java/use-assertthat/   
  
  
