@@ -41,24 +41,14 @@ https://github.com/jojoldu/freelec-springboot2-webservice/issues/612
 
 
 <br>   
+6. **변수 모두 final로 변경**   
+ 1) p.112 **PostsResponseDTO**      
+ 2) p.149 **PostsListResponseDTO **     
+ 3) p.185 **OAuthAttributes**      
 
-
-6. **p.112 PostsResponseDTO**   
-: id, title, content, author 모두 **final**로 변경   
-
-   <br>   
-      
-7. **p.149 PostsListResponseDTO**   
-: id, title, author, modifiedDate 모두 **final**로 변경     
-
-<br>   
-
-8. **p.185 OAuthAttributes**   
-: attributes, nameAttributeKey, name, email, picture 모두 **final**로 변경      
-
-<br>   
+<br>    
    
    
-9. 
+7. 
 
 
