@@ -1,10 +1,11 @@
-package com.aws.boot;
+package com.aws;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GogoApplicationTests {
+class AwsApplicationTests
+{
 
 	@Test
 	void contextLoads() {
