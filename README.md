@@ -53,6 +53,12 @@ https://github.com/jojoldu/freelec-springboot2-webservice/issues/612
 
 <br>   
 
-8. 
+8. **p.185 OAuthAttributes**   
+: attributes, nameAttributeKey, name, email, picture 모두 **final**로 변경      
+
+<br>   
+   
+   
+9. 
 
 
