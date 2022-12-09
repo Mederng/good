@@ -44,7 +44,7 @@ https://github.com/jojoldu/freelec-springboot2-webservice/issues/612
 
 6. **변수 모두 final로 변경**      
  - p.112 **PostsResponseDTO**      
- - p.149 **PostsListResponseDTO **     
+ - p.149 **PostsListResponseDTO**     
  - p.185 **OAuthAttributes**      
 
 
