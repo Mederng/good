@@ -7,8 +7,8 @@
 
 
 1. **[build.gradle]**   
-: **JDK 버전** 11    
-: **Boot 버전** 2.6.8(머스테치 한글 깨짐 방지)   
+: **JDK** 11    
+: **boot** 2.6.8(머스테치 한글 깨짐 방지)   
 : repositories만 **jcenter()** 추가했음   
 
 <br>
