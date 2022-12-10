@@ -40,19 +40,17 @@ https://github.com/jojoldu/freelec-springboot2-webservice/issues/612
 : assertThat(responseEntity.getBody()).**isPositive()**;   
 
 
-<br>   
+<br>    
+
+6. **변수 모두 final로 변경**      
+ - p.112 **PostsResponseDTO**      
+ - p.149 **PostsListResponseDTO**     
+ - p.185 **OAuthAttributes**      
 
 
-6. **p.112 PostsResponseDTO**   
-: id, title, content, author 모두 **final**로 변경   
-
-   <br>   
-      
-7. **p.149 PostsListResponseDTO**   
-: id, title, author, modifiedDate 모두 **final**로 변경     
-
-<br>   
-
-8. 
+<br>    
+   
+   
+7. 
 
 
