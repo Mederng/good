@@ -6,7 +6,7 @@
 테스트하고 고민하는 과정이다.
 
 
-1. **[build.gradle]**   
+# **[build.gradle]**   
 : **JDK** 11    
 : **boot** 2.6.8(머스테치 한글 깨짐 방지)   
 : repositories만 **jcenter()** 추가했음   
