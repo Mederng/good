@@ -86,4 +86,10 @@ $ sudo reboot
 
 <br><br>   
 
-#
+# p297    
+![image](https://user-images.githubusercontent.com/83068670/206913176-a0dfb64a-1e35-4636-a8d9-ec3a6b2b015c.png)      
+테스트 검증오류로 chmod 명령어 추가   
+참고: https://honeyinfo7.tistory.com/294   
+
+<br><br>
+
