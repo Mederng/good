@@ -86,4 +86,10 @@ $ sudo reboot
 
 <br><br>   
 
-# 
+# p303 ./deploy.sh 명령어 실행 안되는 오류, oauth 로그인(구글, 네이버)시, 아이디 제대로 출력 안되는 오류 존재
+![image](https://user-images.githubusercontent.com/83068670/206926211-95e42d59-e981-474a-9284-ad5b0f1df23b.png)   
+
+![image](https://user-images.githubusercontent.com/83068670/206926243-96e924c4-b0d1-4313-85df-9cf1bfef40d6.png)
+
+
+
