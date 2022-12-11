@@ -77,8 +77,7 @@ rm -rf jdk11.rpm
    
 # p.261 hostName 변경   
 [as-is]   
-$ sudo vim /etc/sysconfig/network   
-   <br>   
+$ sudo vim /etc/sysconfig/network      
 [to-be]   
 $ sudo hostnamectl set-hostname springboot-webservice   
 $ sudo reboot   
