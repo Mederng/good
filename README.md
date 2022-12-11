@@ -74,6 +74,17 @@ rm -rf jdk11.rpm
    
 <br>   
 <br>   
+   
+# p.261 hostName 변경   
+[as-is]   
+$ sudo vim /etc/sysconfig/network   
+   <br>   
+[to-be]   
+$ sudo hostnamectl set-hostname springboot-webservice   
+$ sudo reboot   
 
-#  
+참고: https://github.com/jojoldu/freelec-springboot2-webservice/issues/845   
 
+<br><br>   
+
+#
