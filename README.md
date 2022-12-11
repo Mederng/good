@@ -51,6 +51,13 @@ https://github.com/jojoldu/freelec-springboot2-webservice/issues/612
 <br>    
    
    
-7. 
+7. **p218 PostsApiControllerTests**   
+ - .contentType(**MediaType.APPLICATION_JSON_UTF8**) -> .contentType(**MediaType.APPLICATION_JSON**)   
+   : **deprecated**   
+   
+<br>   
+ 
+
+8. 
 
 
