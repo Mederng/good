@@ -48,8 +48,16 @@ dependencies
 	implementation 'org.springframework.boot:spring-boot-starter-mustache'
 
 
-	//시큐리티
+	// 시큐리티
 	implementation 'org.springframework.boot:spring-boot-starter-oauth2-client'
+	testImplementation 'org.springframework.security:spring-security-test'
+
+	// 데이터베이스 세션 저장소
+	implementation 'org.springframework.session:spring-session-jdbc'
+
+	// MariaDB 드라이버
+	implementation 'org.mariadb.jdbc:mariadb-java-client'
+
 
 
 }
