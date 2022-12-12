@@ -91,5 +91,9 @@ $ sudo reboot
 
 ![image](https://user-images.githubusercontent.com/83068670/206926243-96e924c4-b0d1-4313-85df-9cf1bfef40d6.png)
 
+# p.311 파일 내용 확인   
+: head nohup.out   
 
+<br>    
+#
 
